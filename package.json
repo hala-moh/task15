@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.21",
+    "react-dom": "^19.2.4"
+  }
+}
